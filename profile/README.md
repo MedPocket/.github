@@ -1,3 +1,3 @@
 ## Hi, This is [@MedPocket](https://github.com/MedPocket) 👋
 
-![Banner](/images/banner.jpg)
+![Banner](/images/banner.png)
